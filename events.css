@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+    background-color: slateblue
+    
+  }
+  body {
+     height: 100%;
+     vertical-align: text-top
+  }
+
+  header {
+      background-color:D5FF0D;
+      padding:1000x;
+      font-size: 60;
+      display: block;
+      width: 1000px;
+      vertical-align: top;
+  }
+  nav {
+      line-height:FF310D;
+      background-color:E8260C;
+      width:125px;
+      display: inline-block;
+      vertical-align: top;
+  }
+  nav ul {
+      list-style-type: none;
+  }
+  a {
+      color: BF0DFF;
+  }
+  section {
+      width: 516px;
+      display: inline-block;
+      background-color: turquoise
+  }
+  aside {
+    width: 125px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:D5FF0D;
+    font-size: ;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:D5FF0D;
+      text-align:;
+      padding:5px;
+      display: block;
+  }
